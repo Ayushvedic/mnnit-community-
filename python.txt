@@ -1,2 +1,2 @@
 Python game project 
-studying effect of changes
+
